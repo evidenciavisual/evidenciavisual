@@ -1,7 +1,7 @@
 ## Hi 👋 My name is Antonio Suazo
 
 
-### Researcher in technologies applied to cultural heritage, combining computer vision, computational geometry and 3D data science for its study, analysis, protection and dissemination. 
+### Researcher in technologies applied to cultural heritage, combining computational geometry, computer vision, computer graphics, and 3D data science for its study, analysis, protection and dissemination. 
 ### From LIDAR and deep learning for damage detection, to web platforms for open science.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Areas of interest
-* One of my main areas is the collection, visualization and computational analysis of three-dimensional data on historic assets. This using methods at different scales, from emerging technologies for capturing reality (Lidar scanning, drone imagery, photogrammetry, etc), as well as aerial photography, to satellite records at urban and state scale. For this purpose I have implemented numerous computational geometry algorithms for the identification and characterization of alterations.
+* One of my main areas is the collection, visualization and computational analysis of three-dimensional data on historic assets. This by using methods at different scales, from emerging technologies for capturing reality (microsurface instruments, Lidar scanning, drone imagery, photogrammetry, etc), as well as aerial photography, to satellite records at urban and state scale. For this purpose I have implemented numerous computational geometry algorithms for the identification and characterization of alterations.
 * Another area is the analysis of historical photographs by computational means, for the investigation of the previous condition of different structures, buildings and artifacts of historical value. For this purpose I have developed a set of computer vision methods and algorithms to translate and extract the spatial clues contained in the images.
-* A third area is related to physical computing and full-scale human-machine interfaces for the exploration and querying of massive three-dimensional cultural heritage data. For this I have coded computer graphics development toolkits that include spatial partitioning systems, exchange with peripherals, and fixed-size blocks allocation, for fluid and resource-efficient visualizations.
+* A third area is related to physical computing and full-scale human-machine interfaces for the exploration and querying of massive three-dimensional cultural heritage data. For this I have coded computer graphics development toolkits that include spatial partitioning systems, exchange with peripherals, and fixed-size memory blocks allocation, for fluid and resource-efficient visualizations.
 
 ### Skills
 <!--
